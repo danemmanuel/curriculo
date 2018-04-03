@@ -31,6 +31,9 @@
   - [x] Bootstrap Grid System;
   - [x] Bootstrap Framework;
   - [x] Técnicas de organização como: BEM e ITCSS;
+- [x] PHP;
+  - [x] PHP orientado a objeto;
+  - [x] PDO;
 - [ ] NodeJS (**Estudando**);
 
 ### Ferramentas
@@ -46,7 +49,7 @@
 - [x] Pomodoro;
 
 
-### Formação
+### Formação Acadêmica
 
   - **Tecnologia em Análise e Desenvolvimento de Sistemas** - Universidade São Francisco (3 anos);
   - **Web Design** - Microcamp (2,5 anos);
@@ -65,75 +68,52 @@
 
 ### Experiências
 
-  09/2017 - Atual<br />
-  **PagSeguro no Grupo UOL**<br />
-  Desenvolvedor Front-End Engineer<br />
-  Como desenvolvedor Front-End Engineer tenho como responsabilidade em implementar e realizar manutenção
-  em aplicações SPA, requisitando dados de Microserviços e/ou implementando diretamente no Monolítico. 
-  Utilizando métodos Ágile como Scrum/Kanban para planejamento das Sprints e atualizações de status
-  para a equipe através de Dailies. 
+  11/2017 - Atual<br />
+  **Cantinho Empreendedor**<br />
+  Desenvolvedor Web<br />
+  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas completos.
 
 **Tecnologias**:
-
-  - Gulp, Webpack, RollUp para automação de processos;
+  - Wordpress;
+  - Gulp, Webpack para automação de processos;
   - GIT para versionamento de código;
-  - VueJS para estruturar e definir a lógica da aplicação;
-  - NodeJS, ExpressJS para desenvolvimentode BFF (Back-End for Front-End);
-  - Handlebars como template engine;
-  - TDD com Karma, Mocha, Chaí, Sinon, Istanbul;
   - CSS3 animations;
+  - jQuery como biblioteca Cross-Browser;
   - SASS e Stylus como pré-processador;
+  - Photoshop;
+  - Illustrator;
   - Flexbox<br /><br />
   
-  02/2017 - 05/2017<br />
-  **F(x) : O marketplace de crédito estruturado**<br />
-  Desenvolvedor Front-End Engineer Junior<br />
-  Como desenvolvedor Front-End Engineer tenho como responsabilidade em implementar e realizar manutenção
-  em aplicações SPA. Utilizando métodos Ágile como Scrum para planejamento das Sprints e atualizações de status
-  para a equipe através de Dailies. 
-
+  06/2017 - 11/2017<br />
+  **Oxigenium**<br />
+  Desenvolvedor Web<br />
+  Como desenvolvedor tenho como responsabilidade desenvolver sites criados pelo time de design da agência, transformando em tema para Wordpress
 **Tecnologias**:
 
+  - Wordpress;
   - Gulp para automação de processos;
   - GIT para versionamento de código;
-  - AngularJS 1.x para estruturar e definir a lógica da aplicação;
   - jQuery como biblioteca Cross-Browser;
-  - JS Patterns, OOP;
-  - TDD com Jest;
   - CSS3 animations para animações;
   - LESS como pré-processador;
-  - Bootstrap Grid;<br /><br />
+  - Flexbox<br /><br />
   
-  09/2013 - 02/2017<br />
-  **Produtora Luego**<br />
-  Desenvolvedor Front-End Pleno<br />
-  Como Desenvolvedor Front-End tenho a responsabilidade de implementar e otimizar páginas web,
-  se preocupando com SEO, escrevendo código performático, bem documentado e limpo. Respeitando os diversos
-  devices utilizando medidas responsivas e cross-browser.
+  08/2016 - 06/2017<br />
+  **Cantinho Empreendedor**<br />
+  Desenvolvedor Web<br />
+  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas completos.
 
 **Tecnologias**:
-
-  - HTML5, CSS3 e Javascript;
-  - Gulp para automação de processos;
+  - Wordpress;
+  - Gulp, Webpack para automação de processos;
   - GIT para versionamento de código;
-  - Nunjucks para modularizar o HTML;
-  - HTML5 Semantico e seguindo Web Standards;
-  - LESS como pré-processador;
-  - Bootstrap Framework;
-  - Bootstrap Grid;
-  - API: facebook, twitter, google, youtube;
-  - AJAX;
+  - CSS3 animations;
   - jQuery como biblioteca Cross-Browser;
-  - JS Patterns, OOP;
-  - TweenMax da GSAP para animações;
+  - SASS e Stylus como pré-processador;
+  - Photoshop;
+  - Illustrator;
+  - Flexbox<br /><br />
 
 ### Idiomas
   - Inglês Técnico / Básico 2
-    (My English comprehension will be better on listening, reading and writing);
-
-
-### Formação Acadêmica
-  
-  01/2011 - 06/2012<br />
-  **Técnico em Informática (Programação)**<br />
-  Escola Técnica Estadual de Poa/SP
+    (My English comprehension will be better reading);
