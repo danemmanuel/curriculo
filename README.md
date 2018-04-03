@@ -6,7 +6,7 @@
 **Telefone**: (11) 94264-5270<br />
 **Cidade**: Itatiba - SP<br />
 **Email**: [danemmanuelturibio@gmail.com](mailto:danemmanuelturibio@gmail.com)<br />
-**Portfólio**: [clique aqui](https://danvieira.me)<br />
+**Portfólio**: [clique aqui](https://github.com/danemmanuel/portfolio/)<br />
 **Github**: [https://github.com/danemmanuel](https://github.com/danemmanuel)<br />
 **LinkedIn**: [https://www.linkedin.com/in/danemmanuelvieira/](https://www.linkedin.com/in/danemmanuelvieira/)<br />
 
@@ -19,7 +19,7 @@
   - [x] APIs como: Facebook, Twitter, Youtube, GoogleMaps;
   - [x] VueJS;
   - [x] Ajax;
-  - [x] Performance (**Estudando**);
+  - [x] Performance;
   - [x] Consumo de REST API;
    
 - [x] HTML5
