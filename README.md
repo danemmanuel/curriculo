@@ -3,7 +3,7 @@
 ### Dados Pessoais
 
 **Nome**: Dan Emmanuel Turibio Vieira<br />
-**Telefone**: (11) 94264-5270<br />
+**Telefone**: (11) 98879 - 5910<br />
 **Cidade**: Itatiba - SP<br />
 **Email**: [danemmanuelturibio@gmail.com](mailto:danemmanuelturibio@gmail.com)<br />
 **Portfólio**: [clique aqui](https://github.com/danemmanuel/portfolio/)<br />
