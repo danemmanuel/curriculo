@@ -17,7 +17,6 @@
   - [x] jQuery e criação de plugins;
   - [x] Design Patterns como: Singleton, Factory;
   - [x] APIs como: Facebook, Twitter, Youtube, GoogleMaps;
-  - [x] VueJS;
   - [x] Ajax;
   - [x] Performance;
   - [x] Consumo de REST API;
@@ -34,12 +33,10 @@
 - [x] PHP;
   - [x] PHP orientado a objeto;
   - [x] PDO;
-- [ ] NodeJS (**Estudando**);
 
 ### Ferramentas
 - [x] Git;
 - [x] Gulp, Webpack 2, NPM Scripts;
-- [x] Bower;
 - [x] Photoshop;
 - [x] Trello;
 
