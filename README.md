@@ -7,43 +7,51 @@
 **Cidade**: Itatiba - SP<br />
 **Email**: [danemmanuelturibio@gmail.com](mailto:danemmanuelturibio@gmail.com)<br />
 **Portfólio**: [clique aqui](https://github.com/danemmanuel/portfolio/)<br />
-**Github**: [https://github.com/danemmanuel](https://github.com/danemmanuel)<br />
+**Medium**: [clique aqui](https://medium.com/@danemmanuelturibio)<br />
 **LinkedIn**: [https://www.linkedin.com/in/danemmanuelvieira/](https://www.linkedin.com/in/danemmanuelvieira/)<br />
-
+**Github**: [https://github.com/danemmanuel](https://github.com/danemmanuel)<br />
 
 ### Especialidades
 
 - [x] Javascript
-  - [x] jQuery e criação de plugins;
+  - [x] jQuery;
   - [x] Design Patterns como: Singleton, Factory;
   - [x] APIs como: Facebook, Twitter, Youtube, GoogleMaps;
   - [x] Ajax;
   - [x] Performance;
   - [x] Consumo de REST API;
+  
+- [x] Frameworks JS
+  - [x] AngularJS, Angular 4+;
+  - [x] NodeJS;
+  - [-] React (estudando);
    
 - [x] HTML5
   - [x] Estrutura Semântica;
   - [x] SEO on-page;
   - [x] Rich Snippets como: OpenGraph, TwitterCards e MicroData;
+  
 - [x] CSS3;
   - [x] LESS Pre-Processor;
+  - [x] Responsividade / Flex;
   - [x] Bootstrap Grid System;
   - [x] Bootstrap Framework;
   - [x] Técnicas de organização como: BEM e ITCSS;
+  
 - [x] PHP;
   - [x] PHP orientado a objeto;
   - [x] PDO;
+ 
+- [x] Banco de Dados;
+  - [x] Web Service / Mysql;
+  - [x] Firebase;
 
 ### Ferramentas
 - [x] Git;
-- [x] Gulp, Webpack 2, NPM Scripts;
+- [x] Gulp, Webpack, NPM Scripts;
 - [x] Photoshop;
 - [x] Trello;
 
-
-### Práticas
-- [x] Método Agile: Scrum (**Estudando/sem experiência**);
-- [x] Pomodoro;
 
 
 ### Formação Acadêmica
@@ -62,13 +70,14 @@
   - **jQuery - A Biblioteca do Programador JavaScript** - Maurício Samy Silva;
   - **Segredos do Ninja JavaScript** - John Resig / Bear Bibeault;
   - **JavaScript de Alto Desempenho** - Nicholas C. Zakas;
+  - **Desconstruindo o SEO, a pirâmide invertida** - Gustavo Bacchin;
 
 ### Experiências
 
-  11/2017 - Atual<br />
+  11/2017 - 07/2018<br />
   **Cantinho Empreendedor**<br />
   Desenvolvedor Web<br />
-  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas completos.
+  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas web.
 
 **Tecnologias**:
   - Wordpress;
