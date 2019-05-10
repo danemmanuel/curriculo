@@ -4,9 +4,8 @@
 
 **Nome**: Dan Emmanuel Turibio Vieira<br />
 **Telefone**: (11) 98879 - 5910<br />
-**Cidade**: Itatiba - SP<br />
+**Cidade**: São Paulo - SP<br />
 **Email**: [danemmanuelturibio@gmail.com](mailto:danemmanuelturibio@gmail.com)<br />
-**Portfólio**: [clique aqui](https://github.com/danemmanuel/portfolio/)<br />
 **Medium**: [clique aqui](https://medium.com/@danemmanuelturibio)<br />
 **LinkedIn**: [https://www.linkedin.com/in/danemmanuelvieira/](https://www.linkedin.com/in/danemmanuelvieira/)<br />
 **Github**: [https://github.com/danemmanuel](https://github.com/danemmanuel)<br />
@@ -14,15 +13,16 @@
 ### Especialidades
 
 - [x] Javascript
+  - [x] Typescript;
+  - [x] ES6;
   - [x] jQuery;
-  - [x] Design Patterns como: Singleton, Factory;
-  - [x] APIs como: Facebook, Twitter, Youtube, GoogleMaps;
+  - [x] APIs como: Facebook, Twitter, GoogleMaps;
   - [x] Ajax;
   - [x] Performance;
   - [x] Consumo de REST API;
   
 - [x] Frameworks JS
-  - [x] AngularJS, Angular 4+;
+  - [x] AngularJS, Angular 5+;
   - [x] NodeJS;
   - [-] React (estudando);
    
@@ -41,13 +41,23 @@
 - [x] PHP;
   - [x] PHP orientado a objeto;
   - [x] PDO;
+
+- [-] Java;
+  - [x] Java 11 (estudando);
+  - [x] SpringMVC;
  
 - [x] Banco de Dados;
-  - [x] Web Service / Mysql;
+  - [x] MongoDB;
+  - [x] Mysql;
+  - [x] Postgres
   - [x] Firebase;
 
-### Ferramentas
+### Versionamento
 - [x] Git;
+- [x] Gitflow;
+- [x] Gitlab, Bitbucket;
+
+### Ferramentas
 - [x] Gulp, Webpack, NPM Scripts;
 - [x] Photoshop;
 - [x] Trello;
@@ -74,51 +84,29 @@
 
 ### Experiências
 
-  11/2017 - 07/2018<br />
-  **Cantinho Empreendedor**<br />
-  Desenvolvedor Web<br />
-  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas web.
+  10/2018 - atual <br />
+  ** Sinn Tecnologia <br />
+  Desenvolvedor Frontend Pleno <br />
+  **Tecnologias**
+  Angularjs e Angular 6/7 no frontend, com integração à restAPI's feitas em JAVA 11 (Springboot), utilizando como servidor Wildfly 11 ;
+Versionamento: Bitbucket (git) e Gitlab (git), com o padrão gitflow;
+Métodologia de Desenvolvimento: Alguns aspectos do Scrum e Kanban <br /><br />
 
-**Tecnologias**:
-  - Wordpress;
-  - Gulp, Webpack para automação de processos;
-  - GIT para versionamento de código;
-  - CSS3 animations;
-  - jQuery como biblioteca Cross-Browser;
-  - SASS e Stylus como pré-processador;
-  - Photoshop;
-  - Illustrator;
-  - Flexbox<br /><br />
-  
   06/2017 - 11/2017<br />
   **Oxigenium**<br />
   Desenvolvedor Web<br />
-  Como desenvolvedor tenho como responsabilidade desenvolver sites criados pelo time de design da agência, transformando em tema para Wordpress
+  
 **Tecnologias**:
 
-  - Wordpress;
-  - Gulp para automação de processos;
-  - GIT para versionamento de código;
-  - jQuery como biblioteca Cross-Browser;
-  - CSS3 animations para animações;
-  - LESS como pré-processador;
-  - Flexbox<br /><br />
+  Tecnologias utilizadas: PHP 7 e Javascript ES6 para criação de temas e plugins WordPress, automatizador de tarefas Gulp.br /><br />
   
   08/2016 - 06/2017<br />
   **Cantinho Empreendedor**<br />
   Desenvolvedor Web<br />
-  Como desenvolvedor tenho como responsabilidade criar soluções web que atendam a necessidade de cada cliente, desde site, email marketing até sistemas completos.
-
+  
 **Tecnologias**:
-  - Wordpress;
-  - Gulp, Webpack para automação de processos;
-  - GIT para versionamento de código;
-  - CSS3 animations;
-  - jQuery como biblioteca Cross-Browser;
-  - SASS e Stylus como pré-processador;
-  - Photoshop;
-  - Illustrator;
-  - Flexbox<br /><br />
+  Tecnologias utilizadas: PHP 7 e Javascript ES6 para criação de temas e plugins WordPress, automatizador de tarefas Gulp e ferramentas gráficas Photoshop e Illustrator.
+<br /><br />
 
 ### Idiomas
   - Inglês Técnico / Básico 2
