@@ -98,7 +98,7 @@ Métodologia de Desenvolvimento: Alguns aspectos do Scrum e Kanban <br /><br />
   
 **Tecnologias**:
 
-  Tecnologias utilizadas: PHP 7 e Javascript ES6 para criação de temas e plugins WordPress, automatizador de tarefas Gulp.br /><br />
+  Tecnologias utilizadas: PHP 7 e Javascript ES6 para criação de temas e plugins WordPress, automatizador de tarefas Gulp.<br /><br />
   
   08/2016 - 06/2017<br />
   **Cantinho Empreendedor**<br />
